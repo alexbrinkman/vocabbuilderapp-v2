@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          Copyright 2018 -{" "}
+          Copyright 2018 - {new Date().getFullYear() + " - "}
           <a href="https://www.enlightenedpixel.com">
             An EnlightenedPixel Creation
           </a>
