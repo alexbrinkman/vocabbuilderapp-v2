@@ -22,7 +22,7 @@ header {
 footer {
   margin-top: 6em;
   font-size: 0.75em;
-  color: #b9c899;
+  color: #e6ecdb;
 }
 
 h1,
@@ -52,7 +52,7 @@ h2 a:hover {
 }
 
 h3 {
-  color: #b9c899;
+  color: #e6ecdb;
   font-size: 1.1em;
   line-height: 2em;
 }
@@ -64,7 +64,7 @@ ul.links li {
 }
 
 ul.links li a {
-  color: #b9c899;
+  color: #e6ecdb;
   text-decoration: none;
 }
 
@@ -114,7 +114,7 @@ input[type="submit"] {
 
 button:hover,
 input[type="submit"]:hover {
-  background-color: #b9c899;
+  background-color: #e6ecdb;
 }
 
 ::selection {
@@ -126,8 +126,8 @@ input[type="text"] {
   height: 2em;
   width: 100%;
   background-color: #3a4b55;
-  border: 1px solid #b9c899;
-  color: #b9c899;
+  border: 1px solid #e6ecdb;
+  color: #e6ecdb;
   margin-bottom: 2rem;
   padding: 1rem;
   text-align: center;

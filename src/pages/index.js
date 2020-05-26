@@ -1,12 +1,9 @@
-import React from "react"
+import { useEffect } from "react"
+import { navigate } from "gatsby"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-  </Layout>
-)
-
-export default IndexPage
+export default () => {
+  useEffect(() => {
+    navigate("/lists/")
+  }, [])
+  return null
+}
