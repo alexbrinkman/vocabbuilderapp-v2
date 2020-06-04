@@ -151,6 +151,39 @@ const WordList = [
           "Of or relating to the body, especially as distinct from the mind.",
         complete: false,
       },
+      {
+        id: 23,
+        word: "Usury",
+        definition:
+          "The illegal action or practice of lending money at unreasonably high rates of interest.",
+        usage: "The medieval prohibition on usury",
+        complete: false,
+      },
+      {
+        id: 24,
+        word: "Philistine",
+        definition:
+          "hostile or indifferent to culture and the arts, or who has no understanding of them",
+        usage: "I am a complete philistine when it comes to paintings",
+        complete: false,
+      },
+      {
+        id: 25,
+        word: "Probity",
+        definition:
+          "The quality of having strong moral principles; honesty and decency. (Integrity/honesty)",
+        usage: "Financial probity",
+        complete: false,
+      },
+      {
+        id: 26,
+        word: "Fecundity",
+        definition:
+          "The ability to produce an abundance of offspring or new growth; fertility.",
+        usage:
+          "The immense fecundity of his imagination made a profound impact on European literature",
+        complete: false,
+      },
     ],
   },
 ]
