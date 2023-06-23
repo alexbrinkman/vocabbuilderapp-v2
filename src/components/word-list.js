@@ -20,7 +20,7 @@ const WordList = [
         id: 2,
         word: "not yet",
         definition:
-          "todavía no (not yet)",
+          "todavía no",
         complete: false,
       },
       {
@@ -61,127 +61,60 @@ const WordList = [
       },
       {
         id: 9,
-        word: "Assiduous",
-        definition: "Having great care and perseverance",
+        word: "Do you ever get tired of talking all day",
+        definition: "¿Alguna vez te cansas de hablar todo el día?",
         complete: false,
       },
       {
         id: 10,
-        word: "Incorrigible",
+        word: "What do you call it?",
         definition:
-          "Not being able to be corrected, improved, or reformed. Synonyms:	hardened, dyed-in-the-wool, incurable, chronic, irredeemable, hopeless.",
+          "Cómo lo llamas?",
         complete: false,
       },
       {
         id: 11,
-        word: "Sinecure",
+        word: "Have a nice day!",
         definition:
-          "An office that requires or involves little or no responsibility, labour, or active service.",
+          "Que tengas un lindo dia!",
         complete: false,
       },
       {
         id: 12,
-        word: "Specious",
-        definition: "Superficially plausible, but actually wrong",
+        word: "What did you do today?",
+        definition: "Qué hiciste hoy?",
         complete: false,
       },
       {
         id: 13,
-        word: "Peripéteia",
-        definition: "A turning point in a story",
+        word: "I have been listening to Spanish all weekend and I'm getting much better.",
+        definition: "He estado escuchando español todo el fin de semana y estoy mejorando mucho.",
         complete: false,
       },
       {
         id: 14,
-        word: "Abattoir",
-        definition: "A slaughterhouse",
+        word: "I listened to the podcase about the man from Leadville and I understood almost all of it.",
+        definition: "Escuché el podcast sobre el chico de Leadville y entendí casi todo.",
         complete: false,
       },
       {
         id: 15,
-        word: "Egress",
-        definition: "The action of going out or leaving",
+        word: "There weren't any",
+        definition: "No hubo ninguna",
         complete: false,
       },
       {
         id: 16,
-        word: "Mercurial",
+        word: "never the less",
         definition:
-          "Subject to sudden or unpredictable changes of mood or mind",
+          "sin embargo",
         complete: false,
       },
       {
         id: 17,
-        word: "Chimera",
+        word: "I had",
         definition:
-          "(Ki mirror a) A fire-breathing female monster. Mythical creature",
-        complete: false,
-      },
-      {
-        id: 18,
-        word: "Sardonic",
-        definition: "Grimly mocking or cynical",
-        complete: false,
-      },
-      {
-        id: 19,
-        word: "Epistemic",
-        definition:
-          "Of or relating to theory of knowledge, the study of knowledge and justified belief",
-        complete: false,
-      },
-      {
-        id: 20,
-        word: "Nihilism",
-        definition:
-          "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
-        complete: false,
-      },
-      {
-        id: 21,
-        word: "Omakase",
-        definition:
-          "A Japanese meal consisting of dishes selected by the chef.",
-        complete: false,
-      },
-      {
-        id: 22,
-        word: "Somatic",
-        definition:
-          "Of or relating to the body, especially as distinct from the mind.",
-        complete: false,
-      },
-      {
-        id: 23,
-        word: "Usury",
-        definition:
-          "The illegal action or practice of lending money at unreasonably high rates of interest.",
-        usage: "The medieval prohibition on usury",
-        complete: false,
-      },
-      {
-        id: 24,
-        word: "Philistine",
-        definition:
-          "hostile or indifferent to culture and the arts, or who has no understanding of them",
-        usage: "I am a complete philistine when it comes to paintings",
-        complete: false,
-      },
-      {
-        id: 25,
-        word: "Probity",
-        definition:
-          "The quality of having strong moral principles; honesty and decency. (Integrity/honesty)",
-        usage: "Financial probity",
-        complete: false,
-      },
-      {
-        id: 26,
-        word: "Fecundity",
-        definition:
-          "The ability to produce an abundance of offspring or new growth; fertility.",
-        usage:
-          "The immense fecundity of his imagination made a profound impact on European literature",
+          "tuve",
         complete: false,
       },
     ],
