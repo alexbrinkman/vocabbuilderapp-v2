@@ -168,9 +168,9 @@ const WordList = [
       },
       {
         id: 25,
-        word: "There has been a change in temperature.",
+        word: "There was a change in temperature.",
         definition:
-          "Ha habido un cambio en la temperatura.",
+          "Hubo un cambio en la temperatura.",
         complete: false,
       },
       {
