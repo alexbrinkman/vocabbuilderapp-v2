@@ -132,19 +132,103 @@ const WordList = [
         complete: false,
       },
       {
-        id: 19,
+        id: 20,
         word: "Software engineer",
         definition:
           "Ingeniero de software",
         complete: false,
       },
       {
-        id: 20,
+        id: 21,
         word: "If you are a realator and you need someone to show a home for you, you can put it on our site and someone will show it for you",
         definition:
           "Si eres un realator y necesita que alguien le muestre una casa, puede ponerla casa en nuestro sitio web y alguien más se la mostrará",
         complete: false,
       },
+      {
+        id: 22,
+        word: "I worked with a gal that wanted to learn a Colombian accent.",
+        definition:
+          "Trabajé con una chica que quería aprender un acento colombiano.",
+        complete: false,
+      },
+      {
+        id: 23,
+        word: "Before the pandemic, there had always been freedom to travel.",
+        definition:
+          "Antes del pandémico, siempre había habido libertad para viajar.",
+        complete: false,
+      },
+      {
+        id: 24,
+        word: "There has been a change in temperature.",
+        definition:
+          "Ha habido un cambio en la temperatura.",
+        complete: false,
+      },
+      {
+        id: 25,
+        word: "There has been a change in temperature.",
+        definition:
+          "Ha habido un cambio en la temperatura.",
+        complete: false,
+      },
+      {
+        id: 26,
+        word: "there is/are",
+        definition:
+          "hay",
+        complete: false,
+      },
+      {
+        id: 27,
+        word: "there was/were",
+        definition:
+          "había (imperfect) or hubo",
+        complete: false,
+      },
+      {
+        id: 28,
+        word: "there will be",
+        definition:
+          "habrá",
+        complete: false,
+      },
+      {
+        id: 29,
+        word: "there would be",
+        definition:
+          "habriá",
+        complete: false,
+      },
+      {
+        id: 30,
+        word: "there has been",
+        definition:
+          "ha habido",
+        complete: false,
+      },
+      {
+        id: 31,
+        word: "there had been",
+        definition:
+          "había (imperfect) or hubo habido",
+        complete: false,
+      },
+      {
+        id: 32,
+        word: "there will have been",
+        definition:
+          "habrá habido",
+        complete: false,
+      },
+      {
+        id: 32,
+        word: "there would have been",
+        definition:
+          "habriá habido",
+        complete: false,
+      }
     ],
   },
 ]
