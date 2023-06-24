@@ -154,9 +154,9 @@ const WordList = [
       },
       {
         id: 23,
-        word: "Before the pandemic, there had always been freedom to travel.",
+        word: "Before the pandemic, there was always freedom to travel.",
         definition:
-          "Antes del pandémico, siempre había habido libertad para viajar.",
+          "Antes de la pandemia, siempre había libertad para viajar.",
         complete: false,
       },
       {
