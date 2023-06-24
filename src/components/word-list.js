@@ -93,7 +93,7 @@ const WordList = [
       },
       {
         id: 14,
-        word: "I listened to the podcase about the man from Leadville and I understood almost all of it.",
+        word: "I listened to the podcast about the man from Leadville and I understood almost all of it.",
         definition: "Escuché el podcast sobre el chico de Leadville y entendí casi todo.",
         complete: false,
       },
@@ -115,6 +115,34 @@ const WordList = [
         word: "I had",
         definition:
           "tuve",
+        complete: false,
+      },
+      {
+        id: 18,
+        word: "When I was a kid, we went to Mexico often.",
+        definition:
+          "Cuando era niño, íbamos a México a menudo.",
+        complete: false,
+      },
+      {
+        id: 19,
+        word: "I'm not going to be able to explain it.",
+        definition:
+          "No voy a poder explicarlo.",
+        complete: false,
+      },
+      {
+        id: 19,
+        word: "Software engineer",
+        definition:
+          "Ingeniero de software",
+        complete: false,
+      },
+      {
+        id: 20,
+        word: "If you are a realator and you need someone to show a home for you, you can put it on our site and someone will show it for you",
+        definition:
+          "Si eres un realator y necesita que alguien le muestre una casa, puede ponerla casa en nuestro sitio web y alguien más se la mostrará",
         complete: false,
       },
     ],
