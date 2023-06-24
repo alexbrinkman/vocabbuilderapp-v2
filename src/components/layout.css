@@ -127,7 +127,7 @@ input[type="submit"]:hover {
 }
 
 ::selection {
-  background: #b9c899;
+  background: #e7eddd;
 }
 
 input[type="text"] {
