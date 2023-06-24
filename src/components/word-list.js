@@ -228,6 +228,76 @@ const WordList = [
         definition:
           "habriá habido",
         complete: false,
+      },
+      {
+        id: 33,
+        word: "I should have gone to the store this morning.",
+        definition:
+          "Yo debería haber ido a la tienda esta mañana. ",
+        complete: false,
+      },
+      {
+        id: 34,
+        word: "I have read the book.",
+        definition:
+          "He leído el libro. ",
+        complete: false,
+      },
+      {
+        id: 35,
+        word: "¿Hay alguien aquí? ",
+        definition:
+          "Is anyone here",
+        complete: false,
+      },
+      {
+        id: 36,
+        word: "I wanted there to be love for a lifetime.",
+        definition:
+          "Yo quería que hubiera amor toda la vida.",
+        complete: false,
+      },
+      {
+        id: 37,
+        word: "Were there any owls in the forest?",
+        definition:
+          "¿Había algunos búhos en el bosque?",
+        complete: false,
+      },
+      {
+        id: 38,
+        word: "I have lost my cat.",
+        definition:
+          "He perdido mi gato.",
+        complete: false,
+      },
+      {
+        id: 39,
+        word: "There are going to be questions.",
+        definition:
+          "Va a haber preguntas.",
+        complete: false,
+      },
+      {
+        id: 40,
+        word: "Were there any lions at the zoo?",
+        definition:
+          "¿Hubo leones en el zoológico?",
+        complete: false,
+      },
+      {
+        id: 41,
+        word: "There would be a wedding if she wanted one.",
+        definition:
+          "Habría una boda si ella la quisiera. ",
+        complete: false,
+      },
+      {
+        id: 42,
+        word: "There will be a delicious dinner on the table when she comes back.",
+        definition:
+          "Habrá una cena deliciosa en la mesa cuando ella vuelva.",
+        complete: false,
       }
     ],
   },
