@@ -39,7 +39,7 @@ h3 {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 3em;
 }
 
 h2 {
@@ -75,6 +75,11 @@ ul.links li a {
 
 ul.links li a:hover {
   color: #ffffff;
+}
+
+p.definition {
+  font-size: 20px;
+  color: #b9c899;
 }
 
 p,
