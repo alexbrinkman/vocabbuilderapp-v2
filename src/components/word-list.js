@@ -282,7 +282,7 @@ const WordList = [
         id: 41,
         word: "What do you do for work?",
         definition:
-          "¿A qué te dedicas?" or "¿En qué trabajas?"
+          "¿A qué te dedicas?" or "¿En qué trabajas?",
         complete: false,
       },
     ],
