@@ -2,7 +2,7 @@ const WordList = [
   {
     id: 0,
     name: "Spanish Phrases",
-    let words = [
+    words = [
         {
           id: 0,
           word: "I have never been to Colombia",
