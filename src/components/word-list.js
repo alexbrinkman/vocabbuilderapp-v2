@@ -247,7 +247,7 @@ const WordList = [
         id: 36,
         word: "Were there any lions at the zoo?",
         definition:
-          "¿Hubo leones en el zoológico?",
+          "¿Había algunos leones en el zoológico?",
         complete: false,
       },
       {
@@ -263,7 +263,28 @@ const WordList = [
         definition:
           "Habrá una cena deliciosa en la mesa cuando ella vuelva.",
         complete: false,
-      }
+      },
+      {
+        id: 39,
+        word: "It wasn't me!",
+        definition:
+          "Yo no he sido!"
+        complete: false,
+      },
+      {
+        id: 40,
+        word: "It was him!",
+        definition:
+          "Ha sido el"
+        complete: false,
+      },
+      {
+        id: 41,
+        word: "What do you do for work?",
+        definition:
+          "¿A qué te dedicas?" or "¿En qué trabajas?"
+        complete: false,
+      },
     ],
   },
 ]
