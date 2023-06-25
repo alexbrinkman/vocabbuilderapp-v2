@@ -177,7 +177,7 @@ const WordList = [
           definition: "¿A qué te dedicas? o ¿En qué trabajas?",
           complete: false,
         }
-      ];
+      ]
   }
 ];
 
