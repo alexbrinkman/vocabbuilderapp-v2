@@ -268,14 +268,14 @@ const WordList = [
         id: 39,
         word: "It wasn't me!",
         definition:
-          "Yo no he sido!"
+          "Yo no he sido!",
         complete: false,
       },
       {
         id: 40,
         word: "It was him!",
         definition:
-          "Ha sido el"
+          "Ha sido el",
         complete: false,
       },
       {
